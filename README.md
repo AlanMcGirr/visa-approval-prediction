@@ -6,17 +6,6 @@ ML project predicting U.S. visa outcomes using ensemble models
 
 This project aims to build a machine learning model that predicts the approval status of visa applications based on applicant and employer attributes. It was completed as part of the Module 5 Capstone for the DSBA program.
 
----
-
-## 📂 Project Structure
-visa-approval-prediction/
-├── data/            
-# Contains the EasyVisa.csv dataset
-├── demo/            
-# Instructions and link to the live demo app
-├── notebooks/       
-# Jupyter notebooks for EDA, modeling, and evaluation
----
 
 ## 💡 Objective
 
