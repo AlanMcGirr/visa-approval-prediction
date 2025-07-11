@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 # visa-approval-prediction
 ML project predicting U.S. visa outcomes using ensemble models
 =======
 # Visa Approval Prediction 🚀
 
 This project aims to build a machine learning model that predicts the approval status of visa applications based on applicant and employer attributes. It was completed as part of the Module 5 Capstone for the DSBA program.
-
 
 ## 💡 Objective
 
@@ -65,4 +63,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Alan McGirr  
 Part of the University of Texas DSBA Program  
->>>>>>> 9bc4b0a (Initial commit of visa approval prediction project)
