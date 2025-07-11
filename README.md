@@ -10,9 +10,12 @@ This project aims to build a machine learning model that predicts the approval s
 
 ## 📂 Project Structure
 visa-approval-prediction/
-├── data/            # Contains the EasyVisa.csv dataset
-├── demo/            # Instructions and link to the live demo app
-├── notebooks/       # Jupyter notebooks for EDA, modeling, and evaluation
+├── data/            
+# Contains the EasyVisa.csv dataset
+├── demo/            
+# Instructions and link to the live demo app
+├── notebooks/       
+# Jupyter notebooks for EDA, modeling, and evaluation
 ---
 
 ## 💡 Objective
